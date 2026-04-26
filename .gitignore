@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+encryption.key
+sentinel_keys.db
+sentinel_keys.db-shm
+sentinel_keys.db-wal
+keylog.csv
+keylog.txt
+keylog.enc
+decrypted_log.txt
